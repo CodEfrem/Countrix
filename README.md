@@ -1,2 +1,0 @@
-# Countrix
-Created with CodeSandbox
